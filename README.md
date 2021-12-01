@@ -5,7 +5,7 @@
 
 
 
-![](https://img.shields.io/badge/<Framework>-<Flutter>-informational?style=flat&logo=<flutter>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 
 Here are some ideas to get you started:
 
