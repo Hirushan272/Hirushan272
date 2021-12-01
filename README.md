@@ -7,9 +7,8 @@
 
 ![](https://img.shields.io/badge/framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently developing mobile apps.
 - 🌱 I’m currently learning Flutter & node.js
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+
